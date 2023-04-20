@@ -1,0 +1,35 @@
+_repo: De-zwervers-op-de-grenzen-b-Naar-de-achtste-Fransche-uitgave_70395
+_version: 0.0.1
+alternative_title: Les rôdeurs de frontières. Dutch
+creator:
+  author:
+    agent_name: Aimard, Gustave
+    alias: Gloux, Olivier
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '5146'
+    url: http://www.gutenberg.org/2009/agents/5146
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Gustave_Aimard
+    - https://en.wikipedia.org/wiki/Gustave_Aimard
+description: ''
+gutenberg_issued: '2023-03-27'
+identifiers:
+  gutenberg: '70395'
+language: nl
+pgterms:marc905: 20201216105249aimard
+pgterms:marc906: '1869'
+pgterms:marc907: BE
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This book was produced from scanned
+  images of public domain material from the Google Books project.)
+publication_note: '  $aBelgium :$bFirma van den Heuvell & van Santen, $c1869.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Texas -- History -- To 1846 -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: 'De zwervers op de grenzen : $b Naar de achtste Fransche uitgave'
+url: http://www.gutenberg.org/ebooks/70395
