@@ -1,6 +1,9 @@
 _repo: De-zwervers-op-de-grenzen-b-Naar-de-achtste-Fransche-uitgave_70395
 _version: 0.1.0
 alternative_title: Les rôdeurs de frontières. Dutch
+covers:
+- cover_type: archival
+  image_path: 70395-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Aimard, Gustave
@@ -13,6 +16,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Gustave_Aimard
     - https://en.wikipedia.org/wiki/Gustave_Aimard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70395#De-zwervers-op-de-grenzen-b-Naar-de-achtste-Fransche-uitgave
 gutenberg_issued: '2023-03-27'
 identifiers:
   gutenberg: '70395'
